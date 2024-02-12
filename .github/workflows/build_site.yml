@@ -3,7 +3,7 @@ name: build site
 on:
   push:
     branches:
-      #- main  # Set a branch to deploy
+      - main  # deploy on push to this branch
   pull_request:
 
 jobs:
