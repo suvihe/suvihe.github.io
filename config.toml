@@ -56,7 +56,7 @@ pygmentsStyle = "monokai"
 
 #  [[menu.main]]
 #    name = "CV"
-#    url = "/cv/"
+#    url = "https://raw.githubusercontent.com/suvihe/suvihe.github.io/main/static/"
 #    weight = 4
 
 #  [[menu.main]]
