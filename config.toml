@@ -12,7 +12,7 @@ pygmentsStyle = "monokai"
 
 [params]
   footer = "Suvi Heikkuri"
-  description = "PhD Student and Economics Geek"
+#  description = "PhD Student in Economic History"
   avatarURL = "/images/profile_pic.jpg"
   avatarSize = "size-m"
   customHeadHTML = """
