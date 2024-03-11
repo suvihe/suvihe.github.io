@@ -4,7 +4,7 @@ type: page
 ---
 
 
-I am a Ph.D. student in the Department of Economic History at the [University of Gothenburg](https://www.gu.se/en). My dissertation project titled "**Occupational structure and skill distribution in Sweden, 1870 - 1970**" looks into the effects that industrialization had on the occupations and skills of the Swedish labor force. 
+I am a Ph.D. student in the Unit of Economic History at the [University of Gothenburg](https://www.gu.se/en). My dissertation project titled "**Technological change, skills, and occupational structure in Sweden, 1870 - 1950**" looks into how technological change has influenced employment and skills during industrialization in Sweden. 
 
 ## Education
 
