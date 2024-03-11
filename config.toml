@@ -54,10 +54,10 @@ pygmentsStyle = "monokai"
     url = "/projects/"
     weight = 3
 
-#  [[menu.main]]
-#    name = "CV"
-#    url = "https://raw.githubusercontent.com/suvihe/suvihe.github.io/main/static/"
-#    weight = 4
+  [[menu.main]]
+    name = "CV"
+    url = "https://raw.githubusercontent.com/suvihe/suvihe.github.io/main/static/CV/SuviHeikkuri_CV2024_short.pdf"
+    weight = 4
 
 #  [[menu.main]]
 #    name = "Tags"
