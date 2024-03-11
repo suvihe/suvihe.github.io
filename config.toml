@@ -51,7 +51,7 @@ pygmentsStyle = "monokai"
 
   [[menu.main]]
     name = "Research"
-    url = "/projects/"
+    url = "/research/"
     weight = 3
 
   [[menu.main]]
